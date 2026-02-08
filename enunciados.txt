@@ -1,0 +1,7 @@
+Crea 5 rutas distintas cuya URI sea /ejercicio1 pero el método HTTP sea cada uno de los siguientes:
+
+GET
+POST
+PUT
+PATCH
+DELETE
